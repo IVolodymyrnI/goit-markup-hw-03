@@ -250,8 +250,6 @@ img {
 .our-team-section .item{
     line-height: 1.14;
     background-color: var(--primary-pages-color);
-    width: 270px;
-    height: 370px;
     text-align: center;
 }
 
