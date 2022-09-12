@@ -93,6 +93,10 @@ img {
   line-height: 1.19;
 }
 
+.header .logo .second-part{
+  color: #000000;
+}
+
 .header-flex {
   display: flex;
   align-items: center;
@@ -352,8 +356,12 @@ img {
   background-color: var(--third-pages-color);
 }
 
-.footer-logo {
+.footer .logo {
   margin-bottom: 9px;
+}
+
+.footer .logo .second-part{
+  color: #FFFFFF;
 }
 
 .footer-address {
